@@ -1,8 +1,8 @@
 {
   "head": {
-    "brow": ["heavy", "flat"],
-    "jaw": ["retracted"],
-    "brain": "large"
+    "brow": ["light", "flat"],
+    "jaw": ["inconspicuous"],
+    "brain": ["large", "self-aware"]
   },
 
   "bodySize": "medium",
@@ -12,20 +12,23 @@
   "feet": ["large", "flat"],
 
   "spine": "straight",
-  "posture": "slightly hunched",
+  "posture": "upright",
 
   "walksOn": ["feet"],
 
   "hairCoverings": [
     {"head": ["thick", "dark", "long"]},
-    {"body": ["thin", "dark", "short"]},
-    {"arms": ["thin", "dark", "short"]},
-    {"legs": ["thin", "dark", "short"]}
+    {"chest": ["thin", "light"]},
+    {"arms": ["thin", "light"]},
+    {"legs": ["thin", "light"]}
   ],
 
-  "habitat": "communal",
-  "tools": "stone",
+  "habitat": "society",
+  "industries": ["agriculture"],
 
-  "communication": ["spoken", "primitive"]
+  "tools": ["stone", "wood", "weapons"],
+
+  "communication": ["spoken", "language"],
+  "gods": "many"
 }
 
