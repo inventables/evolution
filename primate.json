@@ -1,29 +1,31 @@
 {
   "head": {
-    "brow": ["heavy", "angular"],
-    "jaw": ["extended"],
+    "brow": ["heavy", "flat"],
+    "jaw": ["retracted"],
     "brain": "large"
   },
 
-  "bodySize": "large",
+  "bodySize": "medium",
 
   "hands": ["small", "dexterous"],
 
   "feet": ["large", "flat"],
 
-  "spine": "curved",
-  "posture": "hunched",
+  "spine": "straight",
+  "posture": "slightly hunched",
 
   "walksOn": ["feet"],
 
   "hairCoverings": [
     {"head": ["thick", "dark", "long"]},
-    {"body": ["thin", "dark"]},
-    {"arms": ["thin", "dark"]},
-    {"legs": ["thin", "dark"]}
+    {"body": ["thin", "dark", "short"]},
+    {"arms": ["thin", "dark", "short"]},
+    {"legs": ["thin", "dark", "short"]}
   ],
 
   "habitat": "communal",
-  "communication": ["guttural", "primitive"]
+  "tools": "stone",
+
+  "communication": ["spoken", "primitive"]
 }
 
