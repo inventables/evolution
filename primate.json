@@ -1,34 +1,35 @@
 {
   "head": {
     "brow": ["light", "round"],
-    "jaw": ["underbitten"],
+    "jaw": ["glass"],
     "brain": ["large", "self-aware", "declining aptitude"]
   },
 
-  "bodySize": "small",
+  "bodySize": "scrawny",
 
-  "hands": ["small", "somewhat dexterous"],
+  "hands": ["small", "arthritic"],
 
-  "feet": ["small", "aching"],
+  "feet": ["atrophied"],
 
-  "spine": "curved",
-  "posture": "hunched",
+  "spine": "heavily curved",
+  "posture": "heavily hunched",
 
-  "walksOn": ["feet"],
+  "sitsOn": "ass",
 
   "hairCoverings": [
-    {"head": ["thick", "dark", "long"]},
-    {"face": ["thick", "dark"]},
+    {"head": ["light", "short"]}
   ],
 
-  "habitat": "society",
-  "industries": ["construction"],
+  "habitat": "online",
+  "industries": ["computers"],
 
-  "tools": ["industrial implements"],
+  "tools": ["keyboard", "mouse"]
 
-  "communication": ["spoken", "written", "terse"]
+  "communication": ["typed", "lolspeak"]
 
-  "overworked": true,
-  "gods": "money"
+  "overWorked": true,
+  "underpaid": true,
+
+  "gods": "steve jobs"
 }
 
