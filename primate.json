@@ -1,0 +1,28 @@
+{
+  "head": {
+    "brow": ["heavy", "protruding"],
+    "jaw": ["elongated"],
+    "brain": "small"
+  },
+
+  "bodySize": "small",
+
+  "hands": ["small", "dexterous"],
+
+  "feet": ["small", "dexterous"],
+
+  "spine": "highly curved",
+
+  "walksOn": ["feet", "hands"],
+
+  "hairCoverings": [
+    {"head": ["thick", "dark", "short"]},
+    {"body": ["thick", "dark"]},
+    {"arms": ["thick", "dark"]},
+    {"legs": ["thick", "dark"]}
+  ],
+
+  "habitat": "trees",
+  "communication": ["guttural", "unintelligible"]
+}
+
