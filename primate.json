@@ -1,8 +1,8 @@
 {
   "head": {
-    "brow": ["light", "flat"],
+    "brow": ["light", "round"],
     "jaw": ["inconspicuous"],
-    "brain": ["large", "self-aware"]
+    "brain": ["large", "self-aware", "capable of abstract thought"]
   },
 
   "bodySize": "medium",
@@ -12,7 +12,7 @@
   "feet": ["large", "flat"],
 
   "spine": "straight",
-  "posture": "upright",
+  "posture": "slightly hunched",
 
   "walksOn": ["feet"],
 
@@ -24,11 +24,11 @@
   ],
 
   "habitat": "society",
-  "industries": ["agriculture"],
+  "industries": ["horticulture"],
 
-  "tools": ["stone", "wood", "weapons"],
+  "tools": ["wood", "metals", "garden rakes"],
 
-  "communication": ["spoken", "language"],
-  "gods": "many"
+  "communication": ["spoken", "written", "complex language"],
+  "gods": "few"
 }
 
