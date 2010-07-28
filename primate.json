@@ -1,34 +1,34 @@
 {
   "head": {
     "brow": ["light", "round"],
-    "jaw": ["inconspicuous"],
-    "brain": ["large", "self-aware", "capable of abstract thought"]
+    "jaw": ["underbitten"],
+    "brain": ["large", "self-aware", "declining aptitude"]
   },
 
-  "bodySize": "medium",
+  "bodySize": "small",
 
-  "hands": ["small", "dexterous"],
+  "hands": ["small", "somewhat dexterous"],
 
-  "feet": ["large", "flat"],
+  "feet": ["small", "aching"],
 
-  "spine": "straight",
-  "posture": "slightly hunched",
+  "spine": "curved",
+  "posture": "hunched",
 
   "walksOn": ["feet"],
 
   "hairCoverings": [
     {"head": ["thick", "dark", "long"]},
-    {"chest": ["thin", "light"]},
-    {"arms": ["thin", "light"]},
-    {"legs": ["thin", "light"]}
+    {"face": ["thick", "dark"]},
   ],
 
   "habitat": "society",
-  "industries": ["horticulture"],
+  "industries": ["construction"],
 
-  "tools": ["wood", "metals", "garden rakes"],
+  "tools": ["industrial implements"],
 
-  "communication": ["spoken", "written", "complex language"],
-  "gods": "few"
+  "communication": ["spoken", "written", "terse"]
+
+  "overworked": true,
+  "gods": "money"
 }
 
